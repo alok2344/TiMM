@@ -10,27 +10,7 @@
               {
                 "code": "8280",
                 "UTCOffset": -7
-            },
-            {
-                "code": "5354",
-                "UTCOffset": -6
-            },
-            {
-                "code": "5450",
-                "UTCOffset": -6
-            },
-            {
-                "code": "544FW",
-                "UTCOffset": -6
-            },
-            {
-                "code": "2620",
-                "UTCOffset": -5
-            },
-            {
-                "code": "2543",
-                "UTCOffset": -5
-            },
+            }, 
             {
                 "code": "8200",
                 "UTCOffset": -7
